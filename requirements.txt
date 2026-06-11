@@ -1,0 +1,10 @@
+numpy 
+matplotlib
+pandas
+seaborn
+ipykernel
+openpyxl
+streamlit
+plotly
+streamlit-aggrid
+xlsxwriter
