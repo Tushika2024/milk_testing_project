@@ -8,3 +8,7 @@ streamlit
 plotly
 streamlit-aggrid
 xlsxwriter
+mysql-connector-python
+sqlalchemy
+python-dotenv
+streamlit-autorefresh
